@@ -1,6 +1,7 @@
 # People Counter with YOLOv8 and SORT
 
 A real-time people counting system that uses YOLOv8n for person detection and SORT (Simple Online Realtime Tracking) for object tracking. The system can count people moving up and down across a defined line in a video stream.
+Look at the output example.
 
 ## Features
 
